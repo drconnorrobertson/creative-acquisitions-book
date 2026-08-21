@@ -1,0 +1,30 @@
+# Creative Acquisitions
+
+> Creative Acquisitions: Unconventional Strategies for Buying Businesses by Dr. Connor Robertson
+
+## About This Site
+
+Creative Acquisitions is the official website for the book "Creative Acquisitions: Unconventional Strategies for Buying Businesses" by Dr. Connor Robertson. The site provides information about the book, chapter overviews, acquisition strategy guides, real-world case studies, and a blog covering business acquisition topics.
+
+## About the Author
+
+Dr. Connor Robertson is an entrepreneur, investor, and author who specializes in creative business acquisition strategies. He is the founder of Elixir Consulting Group (https://elixirconsultinggroup.com) and a contributor to The Pittsburgh Wire (https://thepittsburghwire.com). His personal site is https://drconnorrobertson.com.
+
+## Book Overview
+
+Creative Acquisitions covers unconventional strategies for buying businesses without massive upfront capital, including seller financing, earn-outs, equity rollovers, SBA loan strategies, assumption deals, search fund models, roll-up acquisition strategies, holdco structures, and creative financing stacks. The book is available on Barnes & Noble and Kobo.
+
+## Key Pages
+
+- Home: https://creativeacquisitionsbook.com/
+- About the Book: https://creativeacquisitionsbook.com/about/
+- Author: https://creativeacquisitionsbook.com/author/
+- Chapters: https://creativeacquisitionsbook.com/chapters/
+- Strategies: https://creativeacquisitionsbook.com/strategies/
+- Case Studies: https://creativeacquisitionsbook.com/case-studies/
+- Blog: https://creativeacquisitionsbook.com/blog/
+- Contact: https://creativeacquisitionsbook.com/contact/
+
+## Detailed Content
+
+- [Full details](https://creativeacquisitionsbook.com/llms.md)
