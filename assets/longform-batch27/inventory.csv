@@ -1,0 +1,5 @@
+fictional_product,sheet_packages,eaches_per_package,sheet_eaches,physical_eaches,physical_minus_sheet,condition_note
+A,3,12,36,33,-3,2 complete cases plus 9 loose
+B,4,6,24,24,0,4 complete packs
+C,20,1,20,20,0,18 without flag and 2 condition unresolved
+D,2,,,10,,Package conversion unresolved; no inferred factor
