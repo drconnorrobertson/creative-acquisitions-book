@@ -1,0 +1,37 @@
+{
+  "starting_customers": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "retained_starting_customers": [
+    "A",
+    "C",
+    "D"
+  ],
+  "new_current_customers": [
+    "E"
+  ],
+  "prior_cohort_amount": 1000,
+  "current_cohort_amount": 900,
+  "current_all_customer_amount": 1200,
+  "count_retention_fraction": "3/4",
+  "same_cohort_revenue_fraction": "9/10",
+  "capped_cohort_amount": 750,
+  "capped_comparison_fraction": "3/4",
+  "total_growth_fraction": "1/5",
+  "cohort_expansion_amount": 150,
+  "cohort_contraction_amount": 50,
+  "lost_activity_amount": 200,
+  "variation_C_current700": {
+    "current_cohort_amount": 1150,
+    "revenue_fraction": "23/20",
+    "count_fraction": "3/4"
+  },
+  "variation_D_zero_others_at_prior": {
+    "current_cohort_amount": 600,
+    "revenue_fraction": "3/5",
+    "count_fraction": "3/4"
+  }
+}
