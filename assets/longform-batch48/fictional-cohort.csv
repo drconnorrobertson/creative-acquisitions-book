@@ -1,0 +1,6 @@
+customer_id,prior_amount,current_amount,starting_cohort
+A,100,50,yes
+B,200,0,yes
+C,300,450,yes
+D,400,400,yes
+E,0,300,no
