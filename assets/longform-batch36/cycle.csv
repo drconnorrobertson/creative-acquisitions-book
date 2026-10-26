@@ -1,0 +1,4 @@
+fictional_case,period_days,credit_sales_USD,COGS_USD,inventory_begin_USD,inventory_end_USD,AR_begin_USD,AR_end_USD,AP_begin_USD,AP_end_USD
+Base,90,90000,54000,15000,21000,12000,18000,9000,15000
+Comparison,90,90000,54000,12000,18000,9000,15000,9000,15000
+NegativeIllustration,90,90000,54000,6000,6000,5000,5000,12000,12000
