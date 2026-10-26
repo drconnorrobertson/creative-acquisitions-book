@@ -1,0 +1,4 @@
+case_id,practice_input,expected_behavior,observed_result,assistance
+T01,ordinary fictional request; date requested,demonstrate packet; preserve requested status,,
+T02,new fictional request; no approval supplied,prepare packet; distinguish request from approval,,
+T03,two conflicting requested dates,preserve conflict; route to designated reviewer,,
