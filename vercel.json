@@ -920,6 +920,106 @@
       "source": "/blog/partner-capital-faq/",
       "destination": "/blog/partner-capital-field-guide#questions",
       "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-field-guide",
+      "destination": "/blog/sba-loan-business-acquisition#project-cost",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-field-guide/",
+      "destination": "/blog/sba-loan-business-acquisition#project-cost",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-checklist",
+      "destination": "/blog/sba-loan-business-acquisition#document-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-checklist/",
+      "destination": "/blog/sba-loan-business-acquisition#document-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-mistakes",
+      "destination": "/blog/sba-loan-business-acquisition#funding-example",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-mistakes/",
+      "destination": "/blog/sba-loan-business-acquisition#funding-example",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-questions",
+      "destination": "/blog/sba-loan-business-acquisition#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-questions/",
+      "destination": "/blog/sba-loan-business-acquisition#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-examples",
+      "destination": "/blog/sba-loan-business-acquisition#repayment-cases",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-examples/",
+      "destination": "/blog/sba-loan-business-acquisition#repayment-cases",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-scorecard",
+      "destination": "/blog/sba-loan-business-acquisition#repayment-cases",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-scorecard/",
+      "destination": "/blog/sba-loan-business-acquisition#repayment-cases",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-red-flags",
+      "destination": "/blog/sba-loan-business-acquisition#earnout-rule",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-red-flags/",
+      "destination": "/blog/sba-loan-business-acquisition#earnout-rule",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-implementation",
+      "destination": "/blog/sba-loan-business-acquisition#document-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-implementation/",
+      "destination": "/blog/sba-loan-business-acquisition#document-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-advanced",
+      "destination": "/blog/sba-loan-business-acquisition#veteran-exception",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-advanced/",
+      "destination": "/blog/sba-loan-business-acquisition#veteran-exception",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-faq",
+      "destination": "/blog/sba-loan-business-acquisition#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sba-financing-faq/",
+      "destination": "/blog/sba-loan-business-acquisition#questions",
+      "permanent": true
     }
   ]
 }
