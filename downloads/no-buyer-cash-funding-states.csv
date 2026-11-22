@@ -1,0 +1,5 @@
+fictional_state,purchase_price,noncash_seller_note,seller_cash_at_close,transaction_cash_costs,initial_working_cash,total_cash_uses,buyer_cash,partner_cash,cash_gap,reader_review
+A_price_deferred_no_cash_source,600000,600000,0,30000,70000,100000,0,0,100000,
+B_partner_cash_covers_other_uses,600000,600000,0,30000,70000,100000,0,100000,0,
+C_seller_requires_some_cash,600000,550000,50000,30000,70000,150000,0,100000,50000,
+D_B_with_higher_costs,600000,600000,0,50000,70000,120000,0,100000,20000,
