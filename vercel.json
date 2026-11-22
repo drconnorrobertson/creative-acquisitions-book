@@ -830,6 +830,96 @@
       "source": "/blog/asset-vs-stock-faq/",
       "destination": "/blog/asset-vs-stock-purchase-business-acquisition#decision-boundaries",
       "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-checklist",
+      "destination": "/blog/partner-capital-field-guide#review-records",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-checklist/",
+      "destination": "/blog/partner-capital-field-guide#review-records",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-mistakes",
+      "destination": "/blog/partner-capital-field-guide#conditions-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-mistakes/",
+      "destination": "/blog/partner-capital-field-guide#conditions-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-questions",
+      "destination": "/blog/partner-capital-field-guide#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-questions/",
+      "destination": "/blog/partner-capital-field-guide#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-examples",
+      "destination": "/blog/partner-capital-field-guide#funding-cases",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-examples/",
+      "destination": "/blog/partner-capital-field-guide#funding-cases",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-scorecard",
+      "destination": "/blog/partner-capital-field-guide#source-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-scorecard/",
+      "destination": "/blog/partner-capital-field-guide#source-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-red-flags",
+      "destination": "/blog/partner-capital-field-guide#securities-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-red-flags/",
+      "destination": "/blog/partner-capital-field-guide#securities-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-implementation",
+      "destination": "/blog/partner-capital-field-guide#review-records",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-implementation/",
+      "destination": "/blog/partner-capital-field-guide#review-records",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-advanced",
+      "destination": "/blog/partner-capital-field-guide#ownership-scope",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-advanced/",
+      "destination": "/blog/partner-capital-field-guide#ownership-scope",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-faq",
+      "destination": "/blog/partner-capital-field-guide#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/partner-capital-faq/",
+      "destination": "/blog/partner-capital-field-guide#questions",
+      "permanent": true
     }
   ]
 }
