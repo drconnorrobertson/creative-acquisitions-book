@@ -430,6 +430,106 @@
       "source": "/blog/earnouts-faq/",
       "destination": "/blog/earnout-measurement-dispute-checklist#measurement-record",
       "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-field-guide",
+      "destination": "/blog/escrow-holdback-business-acquisition#closing-funds",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-field-guide/",
+      "destination": "/blog/escrow-holdback-business-acquisition#closing-funds",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-checklist",
+      "destination": "/blog/escrow-holdback-business-acquisition#release-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-checklist/",
+      "destination": "/blog/escrow-holdback-business-acquisition#release-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-mistakes",
+      "destination": "/blog/escrow-holdback-business-acquisition#pending-claims",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-mistakes/",
+      "destination": "/blog/escrow-holdback-business-acquisition#pending-claims",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-questions",
+      "destination": "/blog/escrow-holdback-business-acquisition#remedy-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-questions/",
+      "destination": "/blog/escrow-holdback-business-acquisition#remedy-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-examples",
+      "destination": "/blog/escrow-holdback-business-acquisition#release-ledger",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-examples/",
+      "destination": "/blog/escrow-holdback-business-acquisition#release-ledger",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-scorecard",
+      "destination": "/blog/escrow-holdback-business-acquisition#release-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-scorecard/",
+      "destination": "/blog/escrow-holdback-business-acquisition#release-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-red-flags",
+      "destination": "/blog/escrow-holdback-business-acquisition#pending-claims",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-red-flags/",
+      "destination": "/blog/escrow-holdback-business-acquisition#pending-claims",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-implementation",
+      "destination": "/blog/escrow-holdback-business-acquisition#release-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-implementation/",
+      "destination": "/blog/escrow-holdback-business-acquisition#release-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-advanced",
+      "destination": "/blog/escrow-holdback-business-acquisition#basket-cases",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-advanced/",
+      "destination": "/blog/escrow-holdback-business-acquisition#basket-cases",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-faq",
+      "destination": "/blog/escrow-holdback-business-acquisition#remedy-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/holdbacks-faq/",
+      "destination": "/blog/escrow-holdback-business-acquisition#remedy-questions",
+      "permanent": true
     }
   ]
 }
