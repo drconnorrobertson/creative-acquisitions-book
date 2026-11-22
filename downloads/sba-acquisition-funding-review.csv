@@ -1,0 +1,7 @@
+fictional_side,item,amount,cash_amount,noncash_amount,reader_review
+use,purchase_consideration,1050000,990000,60000,
+use,transaction_costs,50000,50000,0,
+use,initial_working_cash,100000,100000,0,
+source,proposed_7a_loan,1080000,1080000,0,
+source,buyer_cash,60000,60000,0,
+source,seller_full_standby_note,60000,0,60000,

@@ -1,0 +1,4 @@
+fictional_case,cash_before_debt,senior_payments,seller_payments,total_payments,cash_payment_ratio_rounded,cash_after_payments,reader_review
+A_full_standby,210000,150000,0,150000,1.40,60000,
+B_separate_paying_note,210000,150000,20000,170000,1.24,40000,
+C_downside_of_B,165000,150000,20000,170000,0.97,-5000,
