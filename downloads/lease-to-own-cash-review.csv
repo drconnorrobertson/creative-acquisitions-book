@@ -1,0 +1,5 @@
+fictional_proposal,exercise_price,monthly_payment,payments_paid,upfront_fee,monthly_credits_earned,fee_credit,cash_before_exercise,exercise_cash,total_nominal_cash,reader_review
+A,360000,6000,12,18000,24000,0,90000,336000,426000,
+B,360000,5000,12,18000,12000,0,78000,348000,426000,
+C,360000,6000,12,18000,24000,18000,90000,318000,408000,
+D,360000,6000,12,18000,22000,0,90000,338000,428000,
