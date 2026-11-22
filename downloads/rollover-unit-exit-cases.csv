@@ -1,0 +1,4 @@
+fictional_case,seller_units,total_common_units,seller_percent,exit_enterprise_value,exit_debt,residual_common_pool,modeled_seller_distribution,reader_review
+before_dilution,300,1000,30,3000000,800000,2200000,660000,
+after_dilution_same_pool,300,1500,20,3000000,800000,2200000,440000,
+downside_before_dilution,300,1000,30,1000000,1100000,0,0,

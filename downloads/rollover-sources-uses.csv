@@ -1,0 +1,7 @@
+fictional_side,item,amount,cash_or_noncash,reader_review
+source,new_acquisition_debt,1000000,cash,
+source,buyer_equity,700000,cash,
+source,seller_rollover,300000,noncash,
+use,seller_cash_consideration,1200000,cash,
+use,old_debt_payoff,500000,cash,
+use,seller_rollover_units,300000,noncash,

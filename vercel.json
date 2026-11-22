@@ -530,6 +530,106 @@
       "source": "/blog/holdbacks-faq/",
       "destination": "/blog/escrow-holdback-business-acquisition#remedy-questions",
       "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-field-guide",
+      "destination": "/blog/equity-rollover-acquisition#seller-proceeds",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-field-guide/",
+      "destination": "/blog/equity-rollover-acquisition#seller-proceeds",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-checklist",
+      "destination": "/blog/equity-rollover-acquisition#rights-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-checklist/",
+      "destination": "/blog/equity-rollover-acquisition#rights-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-mistakes",
+      "destination": "/blog/equity-rollover-acquisition#new-ownership",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-mistakes/",
+      "destination": "/blog/equity-rollover-acquisition#new-ownership",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-questions",
+      "destination": "/blog/equity-rollover-acquisition#transaction-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-questions/",
+      "destination": "/blog/equity-rollover-acquisition#transaction-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-examples",
+      "destination": "/blog/equity-rollover-acquisition#funding-bridge",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-examples/",
+      "destination": "/blog/equity-rollover-acquisition#funding-bridge",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-scorecard",
+      "destination": "/blog/equity-rollover-acquisition#rights-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-scorecard/",
+      "destination": "/blog/equity-rollover-acquisition#rights-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-red-flags",
+      "destination": "/blog/equity-rollover-acquisition#downside-case",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-red-flags/",
+      "destination": "/blog/equity-rollover-acquisition#downside-case",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-implementation",
+      "destination": "/blog/equity-rollover-acquisition#rights-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-implementation/",
+      "destination": "/blog/equity-rollover-acquisition#rights-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-advanced",
+      "destination": "/blog/equity-rollover-acquisition#dilution-case",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-advanced/",
+      "destination": "/blog/equity-rollover-acquisition#dilution-case",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-faq",
+      "destination": "/blog/equity-rollover-acquisition#transaction-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rollover-equity-faq/",
+      "destination": "/blog/equity-rollover-acquisition#transaction-review",
+      "permanent": true
     }
   ]
 }
