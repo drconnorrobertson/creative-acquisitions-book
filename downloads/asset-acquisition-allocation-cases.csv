@@ -1,0 +1,8 @@
+fictional_class,assumed_asset,base_allocation,revised_inventory_case,reader_review
+I,cash_general_deposit,40000,40000,
+II,none_assumed,0,0,
+III,trade_receivables,120000,120000,
+IV,inventory,180000,230000,
+V,equipment,300000,300000,
+VI,assumed_qualifying_customer_intangible,260000,260000,
+VII,goodwill,100000,50000,
