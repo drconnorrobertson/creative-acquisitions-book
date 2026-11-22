@@ -1,0 +1,4 @@
+fictional_scenario,included_assets,included_liabilities,closing_working_capital,target,working_capital_adjustment,base_price,cash_addition,debt_deduction,expense_deduction,illustrative_price,reader_review
+estimate,265000,95000,170000,200000,-30000,2000000,40000,120000,8000,1882000,
+final_with_assumed_reserves,245000,95000,150000,200000,-50000,2000000,40000,120000,8000,1862000,
+reserve_omission_sensitivity,280000,95000,185000,200000,-15000,2000000,40000,120000,8000,1897000,
