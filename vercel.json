@@ -630,6 +630,106 @@
       "source": "/blog/rollover-equity-faq/",
       "destination": "/blog/equity-rollover-acquisition#transaction-review",
       "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-field-guide",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#note-terms",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-field-guide/",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#note-terms",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-checklist",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#diligence-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-checklist/",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#diligence-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-mistakes",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#maturity-cash",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-mistakes/",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#maturity-cash",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-questions",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#ledger-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-questions/",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#ledger-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-examples",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#payment-ledger",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-examples/",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#payment-ledger",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-scorecard",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#cash-budget",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-scorecard/",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#cash-budget",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-red-flags",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#downside-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-red-flags/",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#downside-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-implementation",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#ledger-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-implementation/",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#ledger-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-advanced",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#repayment-paths",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-advanced/",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#repayment-paths",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-faq",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#ledger-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-financing-faq/",
+      "destination": "/blog/seller-note-balloon-payment-stress-test#ledger-review",
+      "permanent": true
     }
   ]
 }
