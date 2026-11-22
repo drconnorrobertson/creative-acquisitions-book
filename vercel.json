@@ -130,6 +130,106 @@
       "source": "/blog/lease-to-own-faq/",
       "destination": "/blog/lease-to-own-field-guide#questions",
       "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-field-guide",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#transition-terms",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-field-guide/",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#transition-terms",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-checklist",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#transition-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-checklist/",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#transition-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-mistakes",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#acceptance-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-mistakes/",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#acceptance-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-questions",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#transition-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-questions/",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#transition-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-examples",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#handoff-records",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-examples/",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#handoff-records",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-scorecard",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#acceptance-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-scorecard/",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#acceptance-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-red-flags",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#payment-boundaries",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-red-flags/",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#payment-boundaries",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-implementation",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#transition-timing",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-implementation/",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#transition-timing",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-advanced",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#payment-boundaries",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-advanced/",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#payment-boundaries",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-faq",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#transition-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seller-transition-faq/",
+      "destination": "/blog/seller-transition-agreement-business-acquisition#transition-questions",
+      "permanent": true
     }
   ]
 }
