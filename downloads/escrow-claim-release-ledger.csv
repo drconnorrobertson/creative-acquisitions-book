@@ -1,0 +1,5 @@
+fictional_review,bucket,opening_balance,authorized_claim_payment,seller_release,remaining_escrow,reader_review
+review_1,general,200000,45000,120000,35000,
+review_1,special,100000,0,0,100000,
+review_2,general,35000,0,35000,0,
+review_2,special,100000,20000,80000,0,
