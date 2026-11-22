@@ -1,0 +1,7 @@
+fictional_case,reported_revenue,assumed_exclusions,eligible_revenue,threshold,rate_percent,cap,uncapped_after_floor,modeled_payout,reader_review
+E01: below threshold,950000,0,950000,1000000,20,100000,0,0,
+E02: at threshold,1000000,0,1000000,1000000,20,100000,0,0,
+E03: reported revenue included,1400000,0,1400000,1000000,20,100000,80000,80000,
+E04: agreed exclusion applied,1400000,100000,1300000,1000000,20,100000,60000,60000,
+E05: cap first reached,1500000,0,1500000,1000000,20,100000,100000,100000,
+E06: above cap,1800000,0,1800000,1000000,20,100000,160000,100000,

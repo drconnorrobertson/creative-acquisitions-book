@@ -330,6 +330,106 @@
       "source": "/blog/working-capital-faq/",
       "destination": "/blog/working-capital-peg-business-acquisition#adjustment-questions",
       "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-field-guide",
+      "destination": "/blog/earnout-measurement-dispute-checklist#metric-definition",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-field-guide/",
+      "destination": "/blog/earnout-measurement-dispute-checklist#metric-definition",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-checklist",
+      "destination": "/blog/earnout-measurement-dispute-checklist#diligence-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-checklist/",
+      "destination": "/blog/earnout-measurement-dispute-checklist#diligence-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-mistakes",
+      "destination": "/blog/earnout-measurement-dispute-checklist#threshold-check",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-mistakes/",
+      "destination": "/blog/earnout-measurement-dispute-checklist#threshold-check",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-questions",
+      "destination": "/blog/earnout-measurement-dispute-checklist#measurement-record",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-questions/",
+      "destination": "/blog/earnout-measurement-dispute-checklist#measurement-record",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-examples",
+      "destination": "/blog/earnout-measurement-dispute-checklist#earnout-cases",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-examples/",
+      "destination": "/blog/earnout-measurement-dispute-checklist#earnout-cases",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-scorecard",
+      "destination": "/blog/earnout-measurement-dispute-checklist#measurement-record",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-scorecard/",
+      "destination": "/blog/earnout-measurement-dispute-checklist#measurement-record",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-red-flags",
+      "destination": "/blog/earnout-measurement-dispute-checklist#exclusion-check",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-red-flags/",
+      "destination": "/blog/earnout-measurement-dispute-checklist#exclusion-check",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-implementation",
+      "destination": "/blog/earnout-measurement-dispute-checklist#reporting-disputes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-implementation/",
+      "destination": "/blog/earnout-measurement-dispute-checklist#reporting-disputes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-advanced",
+      "destination": "/blog/earnout-measurement-dispute-checklist#cap-check",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-advanced/",
+      "destination": "/blog/earnout-measurement-dispute-checklist#cap-check",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-faq",
+      "destination": "/blog/earnout-measurement-dispute-checklist#measurement-record",
+      "permanent": true
+    },
+    {
+      "source": "/blog/earnouts-faq/",
+      "destination": "/blog/earnout-measurement-dispute-checklist#measurement-record",
+      "permanent": true
     }
   ]
 }
