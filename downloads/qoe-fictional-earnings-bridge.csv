@@ -1,0 +1,6 @@
+fictional_line,row_role,seller_signed_amount,review_signed_amount,assumed_evidence,reader_review
+reported_ebitda,input,500000,500000,Same starting EBITDA assumed,
+professional_fee_adjustment,input,60000,40000,Only40000assumednonrecurring,
+owner_related_adjustment,input,40000,30000,10000assumedrecurring,
+incremental_management_cost,input,0,-35000,Incremental cost not already reflected,
+adjusted_ebitda,result,600000,535000,Result; do not sum with inputs,
