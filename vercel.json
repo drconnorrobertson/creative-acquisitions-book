@@ -730,6 +730,106 @@
       "source": "/blog/seller-financing-faq/",
       "destination": "/blog/seller-note-balloon-payment-stress-test#ledger-review",
       "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-field-guide",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#transfer-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-field-guide/",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#transfer-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-checklist",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#comparison-file",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-checklist/",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#comparison-file",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-mistakes",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#stock-basis",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-mistakes/",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#stock-basis",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-questions",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#decision-boundaries",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-questions/",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#decision-boundaries",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-examples",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#allocation-example",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-examples/",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#allocation-example",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-scorecard",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#comparison-file",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-scorecard/",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#comparison-file",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-red-flags",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#liability-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-red-flags/",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#liability-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-implementation",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#comparison-file",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-implementation/",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#comparison-file",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-advanced",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#election-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-advanced/",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#election-review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-faq",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#decision-boundaries",
+      "permanent": true
+    },
+    {
+      "source": "/blog/asset-vs-stock-faq/",
+      "destination": "/blog/asset-vs-stock-purchase-business-acquisition#decision-boundaries",
+      "permanent": true
     }
   ]
 }
