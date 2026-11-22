@@ -39,5 +39,97 @@
     }
   ],
   "buildCommand": "node scripts/optimize-media.mjs . && node scripts/buyer-intent-release.cjs . && node scripts/canonical-discovery.cjs",
-  "outputDirectory": "."
+  "outputDirectory": ".",
+  "redirects": [
+    {
+      "source": "/blog/lease-to-own-checklist",
+      "destination": "/blog/lease-to-own-field-guide#review-records",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-checklist/",
+      "destination": "/blog/lease-to-own-field-guide#review-records",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-mistakes",
+      "destination": "/blog/lease-to-own-field-guide#proposal-cash",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-mistakes/",
+      "destination": "/blog/lease-to-own-field-guide#proposal-cash",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-questions",
+      "destination": "/blog/lease-to-own-field-guide#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-questions/",
+      "destination": "/blog/lease-to-own-field-guide#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-examples",
+      "destination": "/blog/lease-to-own-field-guide#cash-cases",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-examples/",
+      "destination": "/blog/lease-to-own-field-guide#cash-cases",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-scorecard",
+      "destination": "/blog/lease-to-own-field-guide#decision-scope",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-scorecard/",
+      "destination": "/blog/lease-to-own-field-guide#decision-scope",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-red-flags",
+      "destination": "/blog/lease-to-own-field-guide#unearned-credit",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-red-flags/",
+      "destination": "/blog/lease-to-own-field-guide#unearned-credit",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-implementation",
+      "destination": "/blog/lease-to-own-field-guide#review-records",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-implementation/",
+      "destination": "/blog/lease-to-own-field-guide#review-records",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-advanced",
+      "destination": "/blog/lease-to-own-field-guide#exercise-cash",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-advanced/",
+      "destination": "/blog/lease-to-own-field-guide#exercise-cash",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-faq",
+      "destination": "/blog/lease-to-own-field-guide#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lease-to-own-faq/",
+      "destination": "/blog/lease-to-own-field-guide#questions",
+      "permanent": true
+    }
+  ]
 }
