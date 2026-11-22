@@ -1,0 +1,7 @@
+fictional_record,task,packet_evidence,supported_status,next_review_action,reader_criterion,reader_evidence,reader_review_decision
+T01,Key customer introduction,Joint call and introduction email; buyer acknowledged the contact,Introduction recorded,Confirm permitted relationship handoff; do not infer future retention,,,
+T02,Vendor relationship,Seller sent a contact list; consent requirement remains unreviewed,Open: consent review,Have the responsible reviewer establish whether consent is needed and record its outcome,,,
+T03,Routine order workflow,Buyer completed a sample order without seller intervention; reviewer recorded the result,Demonstrated within sample,Retain the reviewed procedure and sample result; do not generalize to all orders,,,
+T04,Refund exception,Procedure version 2 exists; escalation contact is blank,Open: escalation owner,Assign the authorized escalation contact and test the exception route,,,
+T05,Payroll system access,Access request submitted; buyer access has not been confirmed,Open: access verification,Use the approved access process and verify the appropriate role; never put passwords in this sheet,,,
+T06,Seller support availability,Draft says two hours weekly; dates and response expectations remain unagreed,Open: service terms,"Resolve scope, dates, response expectations, compensation, and approvals in the actual documents",,,
