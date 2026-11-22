@@ -1,0 +1,5 @@
+fictional_case,cash_available,one_time_reserve,monthly_cash_spending,cash_after_reserve,modeled_runway_months,reader_review
+A,480000,0,20000,480000,24.0,
+B,480000,60000,20000,420000,21.0,
+C,480000,60000,25000,420000,16.8,
+D,360000,60000,20000,300000,15.0,
