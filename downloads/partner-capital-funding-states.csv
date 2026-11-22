@@ -1,0 +1,5 @@
+fictional_state,available_borrowing,operator_cash,partner_cash,total_treated_available,modeled_cash_uses,funding_gap,reader_review
+A,400000,100000,100000,600000,750000,150000,
+B,500000,100000,100000,700000,750000,50000,
+C,500000,100000,150000,750000,750000,0,
+D,500000,100000,150000,750000,775000,25000,
